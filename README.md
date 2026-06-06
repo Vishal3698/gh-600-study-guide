@@ -16,17 +16,17 @@
 
 ## About this guide
 
-I put this together while preparing for the GH-600 myself. I don't come from a technical background, so a lot of the material out there didn't really work for me — it either assumed I already knew the jargon, or kept the actual explanation behind a paid video. I wanted something that started from the beginning and explained things in plain language, so I built it.
+When I started studying for the GH-600, the hardest part wasn't the material. It was knowing what I could trust.
 
-The approach is pretty simple. A small content pipeline reads through the official sources — Microsoft Learn and the GitHub documentation, and nothing else. From those, it builds short lessons written for a non-technical beginner first: one concept at a time, in plain English. Once an idea makes sense, the lesson goes a little deeper into the technical detail, so the same page is useful whether you're just starting out or filling in gaps.
+The official study guide was short and didn't go very far. Almost everything else I found was a website trying to sell me a quiz or a course, with no way to tell where their answers came from. I couldn't trust any of it.
 
-A few things I try to stick to:
+So I decided to learn it the slow, honest way — straight from the official sources. I read through the official GitHub and Microsoft material one topic at a time, and turned each one into a lesson. Every fact in every lesson comes from an official source. Nothing is guessed, nothing is made up, and nothing is pulled from some random site.
 
-- **Official sources only.** Every fact traces back to Microsoft Learn or the GitHub docs — nothing assumed, nothing made up.
-- **Free, and staying free.** No signup and no paywall.
-- **Our own quizzes.** They follow Microsoft's question style so the format feels familiar, but every question is written from scratch from the public exam objectives — none are copied.
+I also didn't just run it through an AI and post whatever came out. I went through each lesson myself. If something didn't make sense, I rewrote it until it did, and only then called it done. So what you're getting is built by me and checked by me, lesson by lesson.
 
-This is a community resource, and honestly it gets better mostly because people tell me what was confusing or missing. If something trips you up, I'd really like to hear about it — that feedback is what shapes the next update.
+It's written for people with no technical background — simple words, one idea at a time — and it's completely free. No signup, no paywall.
+
+It's still growing, and it gets better when people tell me what was confusing or missing. If a lesson doesn't click for you, please let me know — that's exactly what helps me fix it.
 
 Thanks for reading, and good luck with the exam.
 
