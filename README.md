@@ -53,7 +53,7 @@ The **GH-600 (GitHub Certified: Agentic AI Developer)** is GitHub's certificatio
 
 It tests practical skills across the software development lifecycle (SDLC): GitHub workflows and controls, code quality / security / review, and **coding agents** — including agent customization, tool use, memory and state, multi-agent orchestration, evaluation, and guardrails.
 
-If you are searching for a **GH-600 study guide**, **GH-600 exam prep**, or **how to pass the GitHub Agentic AI Developer certification**, the free interactive course at **[agenticlately.com](https://agenticlately.com)** teaches every objective from the ground up.
+If you are searching for a **GH-600 study guide**, **GH-600 exam prep**, **GH-600 practice questions**, or **how to pass the GitHub Agentic AI Developer certification**, the free interactive course at **[agenticlately.com](https://agenticlately.com)** teaches every objective from the ground up. Start with the [GH-600 exam guide](https://agenticlately.com/gh-600-exam-guide) for the format and domains, then try the [free GH-600 practice questions](https://agenticlately.com/gh-600-practice-questions).
 
 ## GH-600 exam details at a glance
 
@@ -107,6 +107,9 @@ Every domain is taught lesson by lesson, with quizzes, at **[agenticlately.com](
 ## Free GH-600 study resources
 
 - **[agenticlately.com](https://agenticlately.com)** — free interactive lessons + quizzes, beginner-friendly, cited sources, progress tracking. **Recommended starting point.**
+- **[GH-600 exam guide](https://agenticlately.com/gh-600-exam-guide)** — exam format, passing score, and the six domains with weights, in plain English.
+- **[GH-600 practice questions](https://agenticlately.com/gh-600-practice-questions)** — free scenario-based GH-600 practice questions with fully explained answers (no brain dumps).
+- **[Is the GH-600 worth it?](https://agenticlately.com/gh-600-worth-it)** — who the GH-600 is for, what it costs, and how hard it really is.
 - [Microsoft Learn official study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-600).
 - [GH-600 certification overview (Microsoft Learn)](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/).
 
@@ -117,6 +120,9 @@ The exam itself is a paid GitHub certification, but you can **study for it 100% 
 
 ### How hard is the GH-600 exam?
 It covers six domains spanning agent architecture, tool use, memory, evaluation, multi-agent orchestration, and guardrails. With structured prep it's very approachable — even with no AI background. The free course at [agenticlately.com](https://agenticlately.com) is built for total beginners.
+
+### Where can I find free GH-600 practice questions?
+Free, original, scenario-based [GH-600 practice questions](https://agenticlately.com/gh-600-practice-questions) — with fully explained answers — are at agenticlately.com. They're written from the official objectives, not copied from brain-dump sites.
 
 ### What is the GH-600 passing score?
 700 out of 1000.
