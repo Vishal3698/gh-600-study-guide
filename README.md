@@ -14,43 +14,23 @@
 
 ---
 
-## Why learn the GH-600 here?
+## About this guide
 
-Most GH-600 prep is paywalled video courses or scattered flashcards that assume you already know the jargon. **[agenticlately.com](https://agenticlately.com) is different — and it's the reason people actually finish and pass:**
+I put this together while preparing for the GH-600 myself. I don't come from a technical background, so a lot of the material out there didn't really work for me — it either assumed I already knew the jargon, or kept the actual explanation behind a paid video. I wanted something that started from the beginning and explained things in plain language, so I built it.
 
-- 🆓 **Completely free.** No signup, no paywall, no credit card, no "premium unlock." Every lesson and quiz is open.
-- 🧑‍🎓 **Built for non-technical beginners.** Zero AI, machine-learning, or certification background assumed. Every term is defined in plain English the first time it appears — you are never expected to "already know this."
-- 📖 **It actually teaches — in depth.** This is not a cheat sheet or a brain-dump. It's a real course: one concept per lesson, story → idea → example → quiz, building from GitHub basics all the way to multi-agent orchestration and guardrails.
-- ✅ **Every fact is cited to an official source.** Nothing is assumed. Nothing is fabricated. No hallucinated "exam tips." Each claim links to Microsoft Learn or the official GitHub docs, so **you never waste time memorizing something wrong.**
+The approach is pretty simple. A small content pipeline reads through the official sources — Microsoft Learn and the GitHub documentation, and nothing else. From those, it builds short lessons written for a non-technical beginner first: one concept at a time, in plain English. Once an idea makes sense, the lesson goes a little deeper into the technical detail, so the same page is useful whether you're just starting out or filling in gaps.
 
-> ### 👉 If you want to go from *zero* to *GH-600-ready* without spending a dollar, start here:
-> ### **[agenticlately.com](https://agenticlately.com)**
+A few things I try to stick to:
 
----
+- **Official sources only.** Every fact traces back to Microsoft Learn or the GitHub docs — nothing assumed, nothing made up.
+- **Free, and staying free.** No signup and no paywall.
+- **Our own quizzes.** They follow Microsoft's question style so the format feels familiar, but every question is written from scratch from the public exam objectives — none are copied.
 
-## The story behind this guide
+This is a community resource, and honestly it gets better mostly because people tell me what was confusing or missing. If something trips you up, I'd really like to hear about it — that feedback is what shapes the next update.
 
-Hi — and thanks for stopping by. Here's the honest version of how this came to be:
+Thanks for reading, and good luck with the exam.
 
-- I was preparing for the **GH-600 myself**, coming from a **non-technical background** with none of the AI jargon figured out.
-- Most prep out there either **assumed I already knew the terms**, or hid the real answer behind a paywalled video. That didn't work for me — so I built my own system.
-
-So I created a small **content pipeline** with a few firm rules:
-
-- 📚 It reads **only official, trusted sources** — Microsoft Learn and the official GitHub documentation. Nothing else.
-- ✏️ It turns those sources into **small, focused lessons**, written **for a non-technical beginner first** — plain English, one idea at a time.
-- 🔎 Once a concept clicks, we **go deeper** into the technical detail — so the same lesson works whether you're just starting or leveling up.
-- 🧠 The **quizzes are inspired by Microsoft's style** — *not* copied, *not* lifted. Every question is **our own**, written from the public exam objectives.
-- ✅ Because everything traces back to an official source, there's **no guessing and no made-up "exam hacks."**
-
-And the part I care about most:
-
-- This is a **free community resource**, and I keep improving it based on **your feedback** — what confused you, what was missing, what finally made it click.
-- 🙏 So if something trips you up, **please tell me.** Every bit of feedback makes the next learner's path a little easier.
-
-Please enjoy it — and good luck on your GH-600. You've got this. 🚀
-
-> **[→ Start learning free at agenticlately.com](https://agenticlately.com)**
+[→ Start learning free at agenticlately.com](https://agenticlately.com)
 
 ---
 
