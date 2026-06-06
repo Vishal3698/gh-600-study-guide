@@ -14,6 +14,20 @@
 
 ---
 
+## Why learn the GH-600 here?
+
+Most GH-600 prep is paywalled video courses or scattered flashcards that assume you already know the jargon. **[agenticlately.com](https://agenticlately.com) is different — and it's the reason people actually finish and pass:**
+
+- 🆓 **Completely free.** No signup, no paywall, no credit card, no "premium unlock." Every lesson and quiz is open.
+- 🧑‍🎓 **Built for non-technical beginners.** Zero AI, machine-learning, or certification background assumed. Every term is defined in plain English the first time it appears — you are never expected to "already know this."
+- 📖 **It actually teaches — in depth.** This is not a cheat sheet or a brain-dump. It's a real course: one concept per lesson, story → idea → example → quiz, building from GitHub basics all the way to multi-agent orchestration and guardrails.
+- ✅ **Every fact is cited to an official source.** Nothing is assumed. Nothing is fabricated. No hallucinated "exam tips." Each claim links to Microsoft Learn or the official GitHub docs, so **you never waste time memorizing something wrong.**
+
+> ### 👉 If you want to go from *zero* to *GH-600-ready* without spending a dollar, start here:
+> ### **[agenticlately.com](https://agenticlately.com)**
+
+---
+
 ## Table of contents
 
 - [What is the GH-600 exam?](#what-is-the-gh-600-exam)
