@@ -28,6 +28,32 @@ Most GH-600 prep is paywalled video courses or scattered flashcards that assume 
 
 ---
 
+## The story behind this guide
+
+Hi — and thanks for stopping by. Here's the honest version of how this came to be:
+
+- I was preparing for the **GH-600 myself**, coming from a **non-technical background** with none of the AI jargon figured out.
+- Most prep out there either **assumed I already knew the terms**, or hid the real answer behind a paywalled video. That didn't work for me — so I built my own system.
+
+So I created a small **content pipeline** with a few firm rules:
+
+- 📚 It reads **only official, trusted sources** — Microsoft Learn and the official GitHub documentation. Nothing else.
+- ✏️ It turns those sources into **small, focused lessons**, written **for a non-technical beginner first** — plain English, one idea at a time.
+- 🔎 Once a concept clicks, we **go deeper** into the technical detail — so the same lesson works whether you're just starting or leveling up.
+- 🧠 The **quizzes are inspired by Microsoft's style** — *not* copied, *not* lifted. Every question is **our own**, written from the public exam objectives.
+- ✅ Because everything traces back to an official source, there's **no guessing and no made-up "exam hacks."**
+
+And the part I care about most:
+
+- This is a **free community resource**, and I keep improving it based on **your feedback** — what confused you, what was missing, what finally made it click.
+- 🙏 So if something trips you up, **please tell me.** Every bit of feedback makes the next learner's path a little easier.
+
+Please enjoy it — and good luck on your GH-600. You've got this. 🚀
+
+> **[→ Start learning free at agenticlately.com](https://agenticlately.com)**
+
+---
+
 ## Table of contents
 
 - [What is the GH-600 exam?](#what-is-the-gh-600-exam)
