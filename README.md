@@ -107,6 +107,7 @@ Every domain is taught lesson by lesson, with quizzes, at **[agenticlately.com](
 ## Free GH-600 study resources
 
 - **[agenticlately.com](https://agenticlately.com)** — free interactive lessons + quizzes, beginner-friendly, cited sources, progress tracking. **Recommended starting point.**
+- **[Full GH-600 curriculum](https://agenticlately.com/gh-600)** — the complete lesson roadmap: GitHub foundations, agent architecture, tool use & MCP, and more — each topic a standalone lesson.
 - **[GH-600 exam guide](https://agenticlately.com/gh-600-exam-guide)** — exam format, passing score, and the six domains with weights, in plain English.
 - **[GH-600 practice questions](https://agenticlately.com/gh-600-practice-questions)** — free scenario-based GH-600 practice questions with fully explained answers (no brain dumps).
 - **[Is the GH-600 worth it?](https://agenticlately.com/gh-600-worth-it)** — who the GH-600 is for, what it costs, and how hard it really is.
